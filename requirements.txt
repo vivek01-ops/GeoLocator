@@ -6,3 +6,4 @@ hdbscan
 scikit-learn
 numpy
 minisom
+geocoder 
