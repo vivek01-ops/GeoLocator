@@ -1,0 +1,8 @@
+streamlit
+requests
+sqlalchemy
+werkzeug
+hdbscan
+scikit-learn
+numpy
+minisom
